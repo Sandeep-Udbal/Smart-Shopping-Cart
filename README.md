@@ -7,7 +7,7 @@ The **Smart Shopping Cart Bot** automates the shopping experience by scanning pr
 - 📡 **RFID-based Product Scanning** – Automatically scans multiple items.
 - 📟 **I2C Display** – Shows product name and price in real-time.
 - 🔄 **Servo Motor for Cart Access** – Opens the trolley when an item is added.
-- 📶 **Bluetooth Connectivity** – Enables wireless control and integration.
+- 📶 **Bluetooth Connectivity** – Enables wireless control and integration.g
 - 🛍 **Automated Billing** – Calculates the total price based on scanned items.
 
 ## 🛠 Components Used
@@ -27,14 +27,6 @@ The **Smart Shopping Cart Bot** automates the shopping experience by scanning pr
 - 📲 **Mobile App Integration** – Display total price and track purchases.
 - 🤖 **Autonomous Navigation** – Implement self-driving cart movement.
 - ⚖️ **Weight Sensors** – Verify items added to the cart.
-
-## 📂 Repository Structure
-```
-📁 SmartShoppingCartBot
-│── 📂 code/                 # Arduino & ESP32 firmware
-│── 📂 hardware/             # Circuit diagrams & components
-│── 📂 docs/                 # Documentation & setup guide
-│── README.md                # Project overview
 ```
 
 ## 📌 Getting Started
